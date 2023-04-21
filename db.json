@@ -48,5 +48,47 @@
 
     ],
     "dogs":[
+      {
+        "name": "tommy",
+        "age": 3,
+        "gender": "male",
+        "place": "delhi",
+        "id": 1
+      },
+      {
+        "name": "bruno",
+        "age": 6,
+        "gender": "female",
+        "place": "delhi",
+        "id": 2
+      },
+      {
+        "name": "doggy",
+        "age": 3,
+        "gender": "female",
+        "place": "delhi",
+        "id": 3
+      },
+      {
+        "name": "german",
+        "age": 3,
+        "gender": "female",
+        "place": "bangalore",
+        "id": 4
+      },
+      {
+        "name": "lebraa",
+        "age": 3,
+        "gender": "male",
+        "place": "bangalore",
+        "id": 5
+      },
+      {
+        "name": "rocky",
+        "age": 8,
+        "gender": "male",
+        "place": "chennai",
+        "id": 6
+      }
     ]
   }
